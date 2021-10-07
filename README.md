@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luuk-vanhouten
-- 👀 I’m interested in software engeneering an embedded software engeneering
+- 👀 I’m interested in software engineering and embedded software engineering
 - 🌱 I’m currently studying Software Development at HAN University of Applied Sciences in Nijmegen
 - 📫 How to reach me: lvanhouten3@student.han.nl, luukvanhouten01@gmail.com
 
