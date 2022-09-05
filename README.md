@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luuk-vanhouten
 - 👀 I’m interested in software engineering and embedded software engineering
-- 🌱 I’m currently studying Software Development at HAN University of Applied Sciences in Nijmegen
-- 📫 How to reach me: lvanhouten3@student.han.nl, luukvanhouten01@gmail.com
+- 🌱 I’m currently studying Software Development at Saxion University of Applied Sciences in Deventer
+- 📫 How to reach me: 539910@student.saxion.nl, luukvanhouten01@gmail.com
 
 <!---
 luuk-vanhouten/luuk-vanhouten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
